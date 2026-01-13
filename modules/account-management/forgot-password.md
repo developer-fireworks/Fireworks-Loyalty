@@ -13,15 +13,17 @@ If you cannot remember your login credentials, the password recovery process all
 1. Go to the login page
 2. Click the **"Forgot Password"** link
 
+<figure><img src="../../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+
 ### Step 2: Enter Your Email
 
 On the password recovery page, you will see the following options:
 
-| Field | Description |
-|-------|-------------|
-| **Email** | Enter your registered email address |
+| Field       | Description                                     |
+| ----------- | ----------------------------------------------- |
+| **Email**   | Enter your registered email address             |
 | **Recover** | Click to initiate the password recovery process |
-| **Sign Up** | Alternative option to register as a new user |
+| **Sign Up** | Alternative option to register as a new user    |
 
 ### Step 3: Complete Recovery
 
@@ -34,27 +36,30 @@ On the password recovery page, you will see the following options:
 
 {% hint style="info" %}
 **Email Not Received?**
-- Check your spam/junk folder
-- Ensure you entered the correct email address
-- Wait a few minutes and try again
-- Contact your administrator if issues persist
+
+* Check your spam/junk folder
+* Ensure you entered the correct email address
+* Wait a few minutes and try again
+* Contact your administrator if issues persist
 {% endhint %}
 
 {% hint style="warning" %}
 **Security Notice:**
-- Password reset links typically expire after a set time
-- Do not share password reset links with others
-- If you didn't request a password reset, contact your administrator immediately
+
+* Password reset links typically expire after a set time
+* Do not share password reset links with others
+* If you didn't request a password reset, contact your administrator immediately
 {% endhint %}
 
 ## Alternative Options
 
 If you're unable to recover your password through email:
+
 1. Contact your system administrator
 2. The Fireworks Team can assist with account recovery
 
 ## Related Topics
 
-- [Login](login.md)
-- [Change Password](change-password.md)
-- [Sign Up](sign-up.md)
+* [Login](login.md)
+* [Change Password](change-password.md)
+* [Sign Up](sign-up.md)
