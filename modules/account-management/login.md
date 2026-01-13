@@ -14,7 +14,7 @@ Before logging in, ensure you have:
 
 ### Step 1: Access the Login Page
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
 Navigate to the URL provided by the Fireworks team. You will see the login screen.
 
@@ -37,6 +37,8 @@ The login form contains the following fields:
 ### Step 4: Dashboard Access
 
 Upon successful login, you will be redirected to the dashboard screen.
+
+<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 ## Dashboard Overview
 
