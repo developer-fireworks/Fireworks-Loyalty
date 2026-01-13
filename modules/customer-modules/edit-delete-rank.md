@@ -10,6 +10,8 @@ Administrators can edit rank configurations or delete ranks that are no longer n
 
 Navigate to **Customer > Rank Settings**
 
+<figure><img src="../../.gitbook/assets/unknown (11).png" alt=""><figcaption></figcaption></figure>
+
 ## Editing a Rank
 
 ### Step 1: Locate the Rank
@@ -25,34 +27,38 @@ Click **Action > Edit** on the desired rank.
 Update any of the following settings:
 
 #### Basic Information
-| Field | Description |
-|-------|-------------|
-| Rank Name | Display name |
-| Rank Code | Internal identifier |
-| Description | Tier description |
-| Status | Active/Inactive |
+
+| Field       | Description         |
+| ----------- | ------------------- |
+| Rank Name   | Display name        |
+| Rank Code   | Internal identifier |
+| Description | Tier description    |
+| Status      | Active/Inactive     |
 
 #### Qualification Criteria
-| Field | Description |
-|-------|-------------|
-| Minimum Points | Entry threshold |
-| Maximum Points | Upper limit |
-| Spending Threshold | Required spend |
-| Evaluation Period | Assessment timeframe |
+
+| Field              | Description          |
+| ------------------ | -------------------- |
+| Minimum Points     | Entry threshold      |
+| Maximum Points     | Upper limit          |
+| Spending Threshold | Required spend       |
+| Evaluation Period  | Assessment timeframe |
 
 #### Benefits
-| Field | Description |
-|-------|-------------|
-| Point Multiplier | Earning rate |
+
+| Field             | Description           |
+| ----------------- | --------------------- |
+| Point Multiplier  | Earning rate          |
 | Exclusive Rewards | Tier-specific rewards |
-| Special Discounts | Tier discounts |
+| Special Discounts | Tier discounts        |
 
 #### Retention Rules
-| Field | Description |
-|-------|-------------|
-| Validity Period | Status duration |
-| Review Period | Re-evaluation timing |
-| Grace Period | Downgrade buffer |
+
+| Field           | Description          |
+| --------------- | -------------------- |
+| Validity Period | Status duration      |
+| Review Period   | Re-evaluation timing |
+| Grace Period    | Downgrade buffer     |
 
 ### Step 4: Save Changes
 
@@ -76,10 +82,11 @@ Review the confirmation prompt and confirm the deletion.
 **Warning: Impact of Deletion**
 
 Deleting a rank affects:
-- All members currently assigned to that rank
-- Historical reporting data
-- Associated benefits and rewards
-- Automated tier assignment rules
+
+* All members currently assigned to that rank
+* Historical reporting data
+* Associated benefits and rewards
+* Automated tier assignment rules
 
 **Members in a deleted rank will need to be reassigned to another tier.**
 {% endhint %}
@@ -90,28 +97,30 @@ Deleting a rank affects:
 
 Consider the following before editing or deleting ranks:
 
-| Action | Potential Impact |
-|--------|------------------|
+| Action                   | Potential Impact                             |
+| ------------------------ | -------------------------------------------- |
 | Lowering point threshold | More members qualify, benefit costs increase |
-| Raising point threshold | Members may be downgraded |
-| Changing multiplier | Affects future earning rates |
-| Removing benefits | Member satisfaction impact |
-| Deleting rank | Members lose tier status |
+| Raising point threshold  | Members may be downgraded                    |
+| Changing multiplier      | Affects future earning rates                 |
+| Removing benefits        | Member satisfaction impact                   |
+| Deleting rank            | Members lose tier status                     |
 
 ### Communication Plan
 
 {% hint style="info" %}
 **Notify Affected Members:**
-- Prepare communication before changes
-- Explain reasons for changes
-- Highlight any compensatory benefits
-- Provide timeline for implementation
+
+* Prepare communication before changes
+* Explain reasons for changes
+* Highlight any compensatory benefits
+* Provide timeline for implementation
 {% endhint %}
 
 ## Best Practices
 
-{% hint style="tip" %}
+{% hint style="info" %}
 **Before Editing:**
+
 1. Document current configuration
 2. Analyze member distribution
 3. Calculate financial impact
@@ -119,11 +128,11 @@ Consider the following before editing or deleting ranks:
 {% endhint %}
 
 {% hint style="warning" %}
-**Deactivate vs Delete:**
-Consider setting a rank to Inactive instead of deleting to:
-- Preserve historical data
-- Allow easy reactivation
-- Maintain reporting accuracy
+**Deactivate vs Delete:** Consider setting a rank to Inactive instead of deleting to:
+
+* Preserve historical data
+* Allow easy reactivation
+* Maintain reporting accuracy
 {% endhint %}
 
 ## Handling Member Transitions
@@ -138,7 +147,7 @@ When deleting or significantly modifying a rank:
 
 ## Related Topics
 
-- [Rank Settings](rank-settings.md)
-- [Add Rank](add-rank.md)
-- [Audience List](audience-list.md)
-- [Communications](../communications/README.md)
+* [Rank Settings](rank-settings.md)
+* [Add Rank](add-rank.md)
+* [Audience List](audience-list.md)
+* [Communications](../communications/)
