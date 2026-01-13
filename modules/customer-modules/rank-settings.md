@@ -10,7 +10,7 @@ Rank Settings allow you to define and manage membership tiers for your loyalty p
 
 Navigate to **Customer > Rank Settings**
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Understanding Ranks
 
