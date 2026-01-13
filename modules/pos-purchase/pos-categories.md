@@ -10,15 +10,17 @@ POS Categories define how transactions are categorized and how points are earned
 
 Navigate to **POS Purchase > POS Categories**
 
+<figure><img src="../../.gitbook/assets/unknown (23).png" alt=""><figcaption></figcaption></figure>
+
 ## Category List
 
-| Column | Description |
-|--------|-------------|
-| Name | Category name |
-| Division Code | POS division mapping |
-| Multiplier | Point earning rate |
-| Sub Categories | Child categories |
-| Actions | Edit/Delete |
+| Column         | Description          |
+| -------------- | -------------------- |
+| Name           | Category name        |
+| Division Code  | POS division mapping |
+| Multiplier     | Point earning rate   |
+| Sub Categories | Child categories     |
+| Actions        | Edit/Delete          |
 
 ## Creating Categories
 
@@ -28,19 +30,20 @@ Navigate to **POS Categories > Create Categories**
 
 ### Step 2: Enter Details
 
-| Field | Description |
-|-------|-------------|
-| **Name** | Category display name |
-| **Division Code** | POS system code |
-| **Multiplier** | Points multiplier |
+| Field              | Description            |
+| ------------------ | ---------------------- |
+| **Name**           | Category display name  |
+| **Division Code**  | POS system code        |
+| **Multiplier**     | Points multiplier      |
 | **Sub Categories** | Child category details |
 
 ### Step 3: Add Sub Categories
 
 Click **Add Sub Category** to create nested categories:
-- Title
-- Code
-- Multiplier
+
+* Title
+* Code
+* Multiplier
 
 ### Step 4: Save
 
@@ -48,8 +51,8 @@ Click **Save** to create the category.
 
 ## Editing/Deleting Categories
 
-- **Edit:** Action > Edit to modify
-- **Delete:** Action > Delete to remove
+* **Edit:** Action > Edit to modify
+* **Delete:** Action > Delete to remove
 
 ## Importing Categories
 
@@ -79,15 +82,15 @@ Click **Update From FTP** to sync with external POS system.
 
 ## Best Practices
 
-{% hint style="tip" %}
-- Use consistent naming conventions
-- Map all POS divisions accurately
-- Set appropriate multipliers
-- Test point calculations
+{% hint style="info" %}
+* Use consistent naming conventions
+* Map all POS divisions accurately
+* Set appropriate multipliers
+* Test point calculations
 {% endhint %}
 
 ## Related Topics
 
-- [POS Purchase Overview](README.md)
-- [POS Tags](pos-tags.md)
-- [Point Configuration](../main-settings/point-configuration.md)
+* [POS Purchase Overview](./)
+* [POS Tags](pos-tags.md)
+* [Point Configuration](../main-settings/point-configuration.md)
