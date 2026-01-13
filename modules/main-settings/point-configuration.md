@@ -10,34 +10,36 @@ Point Configuration defines how members earn and redeem points across your loyal
 
 Navigate to **Main Settings > Point Configuration**
 
+<figure><img src="../../.gitbook/assets/unknown (18).png" alt=""><figcaption></figcaption></figure>
+
 ## Configuration Areas
 
 ### Earning Configuration
 
-| Setting | Description |
-|---------|-------------|
-| **Base Earning Rate** | Standard points per spend unit |
-| **Minimum Transaction** | Minimum spend to earn points |
-| **Points Rounding** | How points are rounded |
-| **Earning Cap** | Maximum points per transaction |
+| Setting                 | Description                    |
+| ----------------------- | ------------------------------ |
+| **Base Earning Rate**   | Standard points per spend unit |
+| **Minimum Transaction** | Minimum spend to earn points   |
+| **Points Rounding**     | How points are rounded         |
+| **Earning Cap**         | Maximum points per transaction |
 
 ### Redemption Configuration
 
-| Setting | Description |
-|---------|-------------|
-| **Redemption Rate** | Points to value conversion |
-| **Minimum Redemption** | Minimum points to redeem |
-| **Maximum Redemption** | Maximum per transaction |
+| Setting                     | Description                   |
+| --------------------------- | ----------------------------- |
+| **Redemption Rate**         | Points to value conversion    |
+| **Minimum Redemption**      | Minimum points to redeem      |
+| **Maximum Redemption**      | Maximum per transaction       |
 | **Redemption Restrictions** | Where/when redemption allowed |
 
 ### Expiration Configuration
 
-| Setting | Description |
-|---------|-------------|
-| **Expiration Period** | How long points are valid |
-| **Expiration Type** | Rolling/Fixed date |
-| **Grace Period** | Warning period before expiry |
-| **Notification Settings** | Expiry reminder rules |
+| Setting                   | Description                  |
+| ------------------------- | ---------------------------- |
+| **Expiration Period**     | How long points are valid    |
+| **Expiration Type**       | Rolling/Fixed date           |
+| **Grace Period**          | Warning period before expiry |
+| **Notification Settings** | Expiry reminder rules        |
 
 ## Configuring Earning Rules
 
@@ -47,19 +49,20 @@ Navigate to Point Configuration settings.
 
 ### Step 2: Set Base Rates
 
-| Field | Example | Description |
-|-------|---------|-------------|
-| **Points per RM** | 1 point | Base earning rate |
-| **Minimum Spend** | RM 1.00 | Minimum to earn |
+| Field             | Example    | Description                |
+| ----------------- | ---------- | -------------------------- |
+| **Points per RM** | 1 point    | Base earning rate          |
+| **Minimum Spend** | RM 1.00    | Minimum to earn            |
 | **Rounding Rule** | Round down | How partial points handled |
 
 ### Step 3: Configure Multipliers
 
 Set earning multipliers for:
-- Member tiers (Gold: 1.5x, Platinum: 2x)
-- Product categories
-- Special promotions
-- Time periods
+
+* Member tiers (Gold: 1.5x, Platinum: 2x)
+* Product categories
+* Special promotions
+* Time periods
 
 ### Step 4: Save Configuration
 
@@ -89,25 +92,27 @@ Services: 1.5 points per RM 1
 
 ### Redemption Rate
 
-| Setting | Example |
-|---------|---------|
-| Points Value | 100 points = RM 1 |
-| Minimum Redemption | 500 points |
-| Maximum per Transaction | 50% of total |
+| Setting                 | Example           |
+| ----------------------- | ----------------- |
+| Points Value            | 100 points = RM 1 |
+| Minimum Redemption      | 500 points        |
+| Maximum per Transaction | 50% of total      |
 
 ### Redemption Restrictions
 
 Configure where redemption is allowed:
-- All outlets
-- Specific tenants only
-- Online only
-- Exclusions (sale items, etc.)
+
+* All outlets
+* Specific tenants only
+* Online only
+* Exclusions (sale items, etc.)
 
 ## Point Expiration
 
 ### Rolling Expiration
 
 Points expire X months after earning:
+
 ```
 Expiration Period: 12 months from earn date
 Grace Period: 30 days warning
@@ -116,6 +121,7 @@ Grace Period: 30 days warning
 ### Fixed Date Expiration
 
 All points expire on a specific date:
+
 ```
 Expiration Date: December 31 annually
 Grace Period: 60 days warning
@@ -123,35 +129,37 @@ Grace Period: 60 days warning
 
 ## Best Practices
 
-{% hint style="tip" %}
+{% hint style="info" %}
 **Balanced Design:**
-- Make earning achievable and rewarding
-- Set redemption rates that are sustainable
-- Provide clear value proposition
-- Keep rules simple to understand
+
+* Make earning achievable and rewarding
+* Set redemption rates that are sustainable
+* Provide clear value proposition
+* Keep rules simple to understand
 {% endhint %}
 
 {% hint style="info" %}
-**Communication:**
-Always communicate point rules clearly to members:
-- How to earn
-- How to redeem
-- Expiration policies
-- Tier benefits
+**Communication:** Always communicate point rules clearly to members:
+
+* How to earn
+* How to redeem
+* Expiration policies
+* Tier benefits
 {% endhint %}
 
 {% hint style="warning" %}
-**Financial Impact:**
-Point configuration directly affects:
-- Program liability
-- Customer perception of value
-- Redemption costs
-- Overall program ROI
+**Financial Impact:** Point configuration directly affects:
+
+* Program liability
+* Customer perception of value
+* Redemption costs
+* Overall program ROI
 {% endhint %}
 
 ## Testing Configuration
 
 Before going live with changes:
+
 1. Test earning scenarios
 2. Test redemption scenarios
 3. Verify tier multipliers
@@ -160,7 +168,7 @@ Before going live with changes:
 
 ## Related Topics
 
-- [Table Rate](table-rate.md)
-- [Add/Minus Points](add-minus-points.md)
-- [Rank Settings](../customer-modules/rank-settings.md)
-- [Points Reports](../reports/points-reports.md)
+* [Table Rate](table-rate.md)
+* [Add/Minus Points](add-minus-points.md)
+* [Rank Settings](../customer-modules/rank-settings.md)
+* [Points Reports](../reports/points-reports.md)
