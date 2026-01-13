@@ -10,27 +10,30 @@ The Referral Group module allows you to create and manage referral programs that
 
 Navigate to **Referral Group**
 
+<figure><img src="../../.gitbook/assets/unknown (15).png" alt=""><figcaption></figcaption></figure>
+
 ## What is a Referral Group?
 
 A referral group defines:
-- Referral reward structure
-- Who can participate
-- Rewards for referrers
-- Rewards for referred members
-- Program duration and limits
+
+* Referral reward structure
+* Who can participate
+* Rewards for referrers
+* Rewards for referred members
+* Program duration and limits
 
 ## Referral Group List
 
 The list displays all configured referral programs:
 
-| Column | Description |
-|--------|-------------|
-| Group Name | Referral program name |
-| Status | Active/Inactive |
-| Referrer Reward | Reward for existing member |
-| Referee Reward | Reward for new member |
+| Column          | Description                   |
+| --------------- | ----------------------------- |
+| Group Name      | Referral program name         |
+| Status          | Active/Inactive               |
+| Referrer Reward | Reward for existing member    |
+| Referee Reward  | Reward for new member         |
 | Total Referrals | Count of successful referrals |
-| Actions | Edit/Delete options |
+| Actions         | Edit/Delete options           |
 
 ## Creating a Referral Group
 
@@ -40,30 +43,30 @@ Click **Add Referral Group** or **Create New**.
 
 ### Step 2: Configure Basic Settings
 
-| Field | Description |
-|-------|-------------|
-| **Group Name** | Program name |
+| Field           | Description         |
+| --------------- | ------------------- |
+| **Group Name**  | Program name        |
 | **Description** | Program description |
-| **Status** | Active/Inactive |
-| **Start Date** | Program start |
-| **End Date** | Program end |
+| **Status**      | Active/Inactive     |
+| **Start Date**  | Program start       |
+| **End Date**    | Program end         |
 
 ### Step 3: Set Referrer Rewards
 
-| Setting | Description |
-|---------|-------------|
-| **Reward Type** | Points/Voucher/Cash |
-| **Reward Value** | Amount to reward |
-| **Maximum Referrals** | Cap per referrer |
-| **Conditions** | Qualification requirements |
+| Setting               | Description                |
+| --------------------- | -------------------------- |
+| **Reward Type**       | Points/Voucher/Cash        |
+| **Reward Value**      | Amount to reward           |
+| **Maximum Referrals** | Cap per referrer           |
+| **Conditions**        | Qualification requirements |
 
 ### Step 4: Set Referee Rewards
 
-| Setting | Description |
-|---------|-------------|
-| **Welcome Bonus** | New member reward |
-| **Bonus Type** | Points/Voucher |
-| **Conditions** | Must complete first transaction, etc. |
+| Setting           | Description                           |
+| ----------------- | ------------------------------------- |
+| **Welcome Bonus** | New member reward                     |
+| **Bonus Type**    | Points/Voucher                        |
+| **Conditions**    | Must complete first transaction, etc. |
 
 ### Step 5: Save the Group
 
@@ -114,40 +117,42 @@ Active referral groups should not be deleted as this affects ongoing referrals. 
 
 ### Referral Report Data
 
-- Referrer details
-- Referee details
-- Referral date
-- Status (Pending/Completed)
-- Rewards issued
+* Referrer details
+* Referee details
+* Referral date
+* Status (Pending/Completed)
+* Rewards issued
 
 ## Best Practices
 
-{% hint style="tip" %}
+{% hint style="info" %}
 **Program Design:**
-- Make rewards attractive but sustainable
-- Set reasonable limits per referrer
-- Include clear terms and conditions
-- Promote the program actively
+
+* Make rewards attractive but sustainable
+* Set reasonable limits per referrer
+* Include clear terms and conditions
+* Promote the program actively
 {% endhint %}
 
 {% hint style="info" %}
-**Success Metrics:**
-Track these KPIs:
-- Referral conversion rate
-- Cost per acquisition
-- Referral quality (retention of referred members)
-- Top referrers
+**Success Metrics:** Track these KPIs:
+
+* Referral conversion rate
+* Cost per acquisition
+* Referral quality (retention of referred members)
+* Top referrers
 {% endhint %}
 
 {% hint style="warning" %}
 **Fraud Prevention:**
-- Monitor for suspicious referral patterns
-- Require verification for rewards
-- Set maximum referrals per period
+
+* Monitor for suspicious referral patterns
+* Require verification for rewards
+* Set maximum referrals per period
 {% endhint %}
 
 ## Related Topics
 
-- [Customer Management](customer-modules/README.md)
-- [Campaigns](campaigns/README.md)
-- [Reports](reports/README.md)
+* [Customer Management](customer-modules/)
+* [Campaigns](campaigns/)
+* [Reports](reports/)
