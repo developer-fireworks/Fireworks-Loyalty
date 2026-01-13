@@ -10,7 +10,7 @@ Audience Lists allow you to segment your customers based on various criteria, en
 
 Navigate to **Customer > Customer Management > Audience List**
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Audience List Interface
 
@@ -51,7 +51,7 @@ Use the filter options to segment your audience based on:
 | **Behavior**     | Purchase History, Points Balance    |
 | **Preferences**  | Store Preference, Category Interest |
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Available Filters
 
