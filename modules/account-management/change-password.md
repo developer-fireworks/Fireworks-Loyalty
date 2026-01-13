@@ -19,7 +19,7 @@ Changing your password regularly is an important security practice. This guide w
 2. Click on your **profile username** in the top right corner of the screen
 3. Select **"Change Password"** from the dropdown menu
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Update Your Password
 

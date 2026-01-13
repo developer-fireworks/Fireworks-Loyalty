@@ -12,13 +12,13 @@ Navigate to **Customer > Customer Management**
 
 ## Creating a New Customer
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 1: Access the Create Form
 
 Click the **Create Customer** or **Manually Create Customer** button.
 
-<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Enter Customer Information
 
