@@ -13,6 +13,8 @@ Logging out of the system is important for maintaining security, especially when
 1. While logged into the system, click on your **profile username** in the top right corner
 2. A dropdown menu will appear with several options
 
+<figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+
 ### Step 2: Complete Logout
 
 1. Click on **"Logout"** from the dropdown menu
@@ -22,14 +24,15 @@ Logging out of the system is important for maintaining security, especially when
 
 {% hint style="info" %}
 **Security Recommendations:**
-- Always log out when leaving your workstation
-- Log out before closing the browser on shared computers
-- Don't rely solely on closing the browser tab to end your session
+
+* Always log out when leaving your workstation
+* Log out before closing the browser on shared computers
+* Don't rely solely on closing the browser tab to end your session
 {% endhint %}
 
 {% hint style="warning" %}
-**Public Computers:**
-When using public or shared computers, always:
+**Public Computers:** When using public or shared computers, always:
+
 1. Log out completely
 2. Clear browser history and cache
 3. Close all browser windows
@@ -41,6 +44,6 @@ The system may automatically log you out after a period of inactivity. If you se
 
 ## Related Topics
 
-- [Login](login.md)
-- [Change Password](change-password.md)
-- [Update Profile](update-profile.md)
+* [Login](login.md)
+* [Change Password](change-password.md)
+* [Update Profile](update-profile.md)
