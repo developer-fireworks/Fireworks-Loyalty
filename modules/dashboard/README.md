@@ -45,14 +45,14 @@ Access detailed analytics and reporting features through the dashboard menu:
 
 | Report Module | Description | Documentation |
 | ------------- | ----------- | ------------- |
-| **[Purchase by Branch](dashboard-module.md#purchase-by-branch)** | View purchase history by branch location with timeline visualization | [View Details](dashboard-module.md#purchase-by-branch) |
-| **[Rank Tier Movement](dashboard-module.md#rank-tier-movement)** | Track member rank tier changes and distribution over time | [View Details](dashboard-module.md#rank-tier-movement) |
-| **[Rank vs Gender](dashboard-module.md#rank-vs-gender)** | Analyze demographic composition by rank tier and gender | [View Details](dashboard-module.md#rank-vs-gender) |
-| **[Sales by Brands](dashboard-module.md#sales-by-brands)** | Monitor sales performance across tenant brands | [View Details](dashboard-module.md#sales-by-brands) |
-| **[Voucher Redemption](dashboard-module.md#voucher-redemption)** | Track voucher redemption patterns and trends | [View Details](dashboard-module.md#voucher-redemption) |
+| **[Purchase by Branch](purchase-by-branch.md)** | View purchase history by branch location with timeline visualization | [View Details](purchase-by-branch.md) |
+| **[Rank Tier Movement](rank-tier-movement.md)** | Track member rank tier changes and distribution over time | [View Details](rank-tier-movement.md) |
+| **[Rank vs Gender](rank-vs-gender.md)** | Analyze demographic composition by rank tier and gender | [View Details](rank-vs-gender.md) |
+| **[Sales by Brands](sales-by-brands.md)** | Monitor sales performance across tenant brands | [View Details](sales-by-brands.md) |
+| **[Voucher Redemption](voucher-redemption.md)** | Track voucher redemption patterns and trends | [View Details](voucher-redemption.md) |
 
 {% hint style="info" %}
-**Complete Dashboard Module Documentation:** For comprehensive guides on each analytics feature, including step-by-step instructions, data fields, and use cases, see the [Dashboard Module Documentation](dashboard-module.md).
+**Complete Dashboard Analytics:** For comprehensive guides on each analytics feature, including step-by-step instructions, data fields, and use cases, explore the individual report documentation above.
 {% endhint %}
 
 ## Date Filters
@@ -78,7 +78,7 @@ Filter dashboard data by different time periods:
 From the dashboard, you can quickly access:
 
 * **Overview** - Return to main dashboard view
-* **[Analytics Reports](dashboard-module.md)** - Detailed reporting modules
+* **Analytics Reports** - Detailed reporting modules
 * **Customer Modules** - Manage customer data
 * **Reports** - Generate detailed reports
 * **Campaigns** - View active campaigns
@@ -91,60 +91,37 @@ From the dashboard, you can quickly access:
 * Check "Low on Inventory" alerts daily
 * Review "Latest Transactions" for anomalies
 * Monitor "New Customers" for growth trends
-* Track [Voucher Redemption](dashboard-module.md#voucher-redemption) patterns
+* Track [Voucher Redemption](voucher-redemption.md) patterns
 {% endhint %}
 
 {% hint style="info" %}
-**Quick Analysis:** Use the date filters to compare performance across different time periods and identify trends. See [Dashboard Module](dashboard-module.md) for advanced analytics.
+**Quick Analysis:** Use the date filters to compare performance across different time periods and identify trends.
 {% endhint %}
 
 {% hint style="success" %}
-**Advanced Analytics:** Explore the [Dashboard Module](dashboard-module.md) for in-depth analysis including:
-- Branch performance comparison
-- Member tier progression tracking
-- Demographic insights
-- Brand sales analytics
-- Voucher effectiveness measurement
+**Advanced Analytics:** Explore the analytics modules for in-depth analysis including:
+- [Branch performance comparison](purchase-by-branch.md)
+- [Member tier progression tracking](rank-tier-movement.md)
+- [Demographic insights](rank-vs-gender.md)
+- [Brand sales analytics](sales-by-brands.md)
+- [Voucher effectiveness measurement](voucher-redemption.md)
 {% endhint %}
 
 ## Related Topics
 
-* [Dashboard Module (Analytics)](dashboard-module.md) - Detailed reporting and analytics
 * [Reports Overview](../reports/)
 * [Customer Management](../customer-modules/)
 * [Campaigns](../campaigns/)
 
-## Quick Links
+## Quick Links to Analytics
 
-### Analytics & Reporting
-- [Purchase by Branch →](dashboard-module.md#purchase-by-branch)
-- [Rank Tier Movement →](dashboard-module.md#rank-tier-movement)
-- [Rank vs Gender →](dashboard-module.md#rank-vs-gender)
-- [Sales by Brands →](dashboard-module.md#sales-by-brands)
-- [Voucher Redemption →](dashboard-module.md#voucher-redemption)
+### Purchase Analysis
+- [Purchase by Branch →](purchase-by-branch.md)
+- [Sales by Brands →](sales-by-brands.md)
 
-### Documentation
-- [Complete Dashboard Module Guide →](dashboard-module.md)
-- [Common Dashboard Features →](dashboard-module.md#common-dashboard-features)
-- [Troubleshooting →](dashboard-module.md#troubleshooting)
-```
+### Member Analytics
+- [Rank Tier Movement →](rank-tier-movement.md)
+- [Rank vs Gender →](rank-vs-gender.md)
 
-## Key Changes Made:
-
-1. **Added "Analytics & Reports" section** - New table linking to all 5 dashboard module features
-2. **Updated "Dashboard Navigation"** - Added link to Analytics Reports
-3. **Enhanced "Best Practices"** - Added reference to Voucher Redemption tracking
-4. **New hint box** - Added "Advanced Analytics" tip linking to the dashboard module
-5. **Updated "Related Topics"** - Added Dashboard Module as the first link
-6. **Added "Quick Links" section** - Easy navigation to all analytics features and documentation
-
-## Navigation Structure:
-```
-README.md (Dashboard Overview)
-    ├─→ dashboard-module.md (Main Analytics Documentation)
-    │   ├─→ #purchase-by-branch
-    │   ├─→ #rank-tier-movement
-    │   ├─→ #rank-vs-gender
-    │   ├─→ #sales-by-brands
-    │   └─→ #voucher-redemption
-    └─→ Other related sections
+### Promotion Analytics
+- [Voucher Redemption →](voucher-redemption.md)
