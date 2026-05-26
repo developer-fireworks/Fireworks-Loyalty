@@ -10,7 +10,7 @@ The Migration module allows administrators to import customer data from external
 
 Navigate to **Customer > Migration List**
 
-<figure><img src="../../.gitbook/assets/unknown (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/migration-list.png" alt=""><figcaption></figcaption></figure>
 
 ## Migration Options
 
