@@ -46,3 +46,15 @@ A popup form will appear with the following fields:
 
 
 
+Complete the following fields in the form:
+
+| Field           | Description                                                                                                |
+| --------------- | ---------------------------------------------------------------------------------------------------------- |
+| Type            | Select the transfer type: Points to transfer loyalty points, or Voucher to transfer a voucher.             |
+| Available Point | Displays the source customer's current available point balance. This is a read-only field.                 |
+| Point           | Enter the number of points to transfer to the destination customer. Applicable when Type is set to Points. |
+| Member ID       | Enter the Member ID of the destination customer who will receive the points or voucher.                    |
+
+### Step 4: Click Save
+
+Click the Save button to complete the transfer. The points or voucher will be transferred from the source customer's account to the destination customer's account immediately.
